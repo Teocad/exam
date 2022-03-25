@@ -26,6 +26,7 @@ body{
 .text_h1{
     font-size:54px;
     margin:20px; 
+  
 
 }
 .text_main{
@@ -66,4 +67,7 @@ body{
     justify-content: space-between;
     max-width: 100%;
     
+}
+.container{
+    margin: 100px;
 }
