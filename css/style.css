@@ -24,12 +24,12 @@ body{
 }
 .text_h1{
     font-size:54px;
-    margin:0px; 
+    margin:20px; 
 
 }
 .text_main{
     font-size:18px; 
-    margin:0px;
+    margin:20px;
 
 
 }
@@ -62,13 +62,7 @@ body{
 .info_text{
     display: flex;
     align-items: center;
-    justify-content: space-end;
+    justify-content: space-between;
     max-width: 100%;
     
-}
-.main_info{
-    max_width   
-}
-.info_picture{
-
 }
